@@ -16,9 +16,9 @@ This repository is where all participants will submit their problem-solving solu
 
    
 ✅ Example:
-- `haymanot.py`
+- `haymi.py`
 - `abebe.cpp`
-- `genet.java`
+- `merry.java`
 
 5. Commit your changes and **open a Pull Request** to the main branch.
 6. Wait for review and merge from a maintainer.
@@ -29,12 +29,12 @@ This repository is where all participants will submit their problem-solving solu
 
 problems/
 ├── 001-two-sum/
-│ ├── haymanot.py
-│ ├── abebe.cpp
+│ ├── haymi.py
+│ ├── merry.cpp
 │ └── ...
 ├── 002-valid-parentheses/
-│ ├── haymanot.py
-│ ├── genet.java
+│ ├── haymi.py
+│ ├── abebe.java
 │ └── ...
 └── ...
 
@@ -82,7 +82,7 @@ Stay consistent to improve your rank 🧩
 
 ## 💬 Questions?
 
-Ask in the ISHub Telegram group or open an issue here on GitHub.
+Ask in the IS-Leetcoders Telegram group or open an issue here on GitHub.
 
 Happy coding! 💻🔥  
 — **Team ISHub AAU, IS-Leetcoders**
