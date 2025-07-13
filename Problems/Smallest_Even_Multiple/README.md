@@ -20,3 +20,6 @@ Example 2:
 **Constraints:**
 
 1 <= n <= 150
+
+---
+[Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/description/)
