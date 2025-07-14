@@ -17,9 +17,12 @@ The provided code stub reads two integers from STDIN,  and . Add code to print t
 ---
 Print the following:
 
-`8
--2
-15`
+`8`  
+
+`-2`  
+
+`15`  
+
 
 **Input Format**
 
@@ -38,15 +41,18 @@ Print the three lines as explained above.
 
 **Sample Input 0**
 
-`3`
+`3`  
+
 `2`
 
 **Sample Output 0**
 
-`
-5
-1
-6`
+
+`5` 
+
+`1`  
+
+`6`
 
 **Explanation 0**
 
