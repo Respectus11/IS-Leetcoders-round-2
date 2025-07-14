@@ -1,6 +1,7 @@
 def palindrom(num):
    rev=str(num)[::-1]
    if str(num) == rev:
-      return true
+      return True
    else :
-      return false
+      return False
+print(palindrom(121))
