@@ -39,3 +39,7 @@ The final concatenated result is "Goal".`
 
 `1 <= command.length <= 100`
 `command` consists of `"G"`, `"()"`, and/or `"(al)"` in some order.
+
+---
+
+[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/description/)
