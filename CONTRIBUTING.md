@@ -53,7 +53,7 @@ Add your solution file using this format:
 
 Example:
 
-* `hayi.py`
+* `haymi.py`
 * `abebe.cpp`
 * `merry.java`
 
