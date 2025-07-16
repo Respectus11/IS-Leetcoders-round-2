@@ -40,7 +40,7 @@ X++: X is incremented by 1, X = 2 + 1 = 3.`
 
 **Input:** `operations = ["X++","++X","--X","X--"]`  
 
-**Output:* `0`  
+**Output:** `0`  
 
 **Explanation:** `The operations are performed as follows:`
 `Initially, X = 0.`
