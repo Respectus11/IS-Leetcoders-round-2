@@ -4,7 +4,7 @@ There are `n` people standing in a line labeled from `1` to `n`. The first perso
 
 
 - For example, once the pillow reaches the `nth` person they pass it to the `n - 1th` person, then to the `n - 2th` person and so on.
-- 
+  
 Given the two positive integers `n` and `time`, return the index of the person holding the pillow after `time` seconds.
 
  
