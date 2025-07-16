@@ -21,8 +21,10 @@ After five seconds, the 2nd person is holding the pillow.`
 ---
 **Example 2:**
 
-**Input:** `n = 3, time = 2`
-**Output:** `3`
+**Input:** `n = 3, time = 2`  
+
+**Output:** `3`  
+
 **Explanation:** `People pass the pillow in the following way: 1 -> 2 -> 3.
 After two seconds, the 3rd person is holding the pillow.`
  
