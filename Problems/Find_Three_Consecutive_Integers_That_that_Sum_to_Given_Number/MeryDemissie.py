@@ -1,3 +1,4 @@
+
 class Solution:
     def sumOfThree(self, num):
         if num % 3 != 0:
