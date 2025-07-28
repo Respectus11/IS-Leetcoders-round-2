@@ -17,10 +17,12 @@ Return the **number of indices** where `heights[i] !=` `expected[i]`.
 
 **Output:** `3`  
 
-**Explanation: **
+**Explanation:**
 `heights:  [1,1,4,2,1,3]
 expected: [1,1,1,2,3,4]
 Indices 2, 4, and 5 do not match.`  
+
+---
 
 **Example 2:**
 
@@ -33,6 +35,7 @@ Indices 2, 4, and 5 do not match.`
 expected: [1,2,3,4,5]
 All indices do not match.`  
 
+---
   
 **Example 3:**
 
@@ -45,7 +48,7 @@ All indices do not match.`
 expected: [1,2,3,4,5]
 All indices match.`  
 
-  
+ --- 
  
 
 **Constraints:**
