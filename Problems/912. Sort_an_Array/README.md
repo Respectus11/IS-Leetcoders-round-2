@@ -19,8 +19,10 @@ You must solve the problem without using any built-in functions in `O(nlog(n))` 
   ---
 **Example 2:**
 
-**Input:** `nums = [5,1,1,2,0,0]`
-**Output:** `[0,0,1,1,2,5]`
+**Input:** `nums = [5,1,1,2,0,0]`  
+
+**Output:** `[0,0,1,1,2,5]`  
+
 **Explanation:** `Note that the values of nums are not necessarily unique.`
  
 ---
