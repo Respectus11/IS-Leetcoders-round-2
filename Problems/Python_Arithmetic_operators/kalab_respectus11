@@ -1,0 +1,8 @@
+def answer():
+    #  to accept sample inputs
+    firstline = int(input())
+    secondline = int(input())
+    print(firstline + secondline)   
+    print(firstline - secondline)   
+    print(firstline * secondline)   
+answer()
