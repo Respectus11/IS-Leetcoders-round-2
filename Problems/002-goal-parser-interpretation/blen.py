@@ -1,3 +1,4 @@
+
 class Solution:
     def interpret(self, command: str) -> str:
         BE = ""
@@ -11,5 +12,4 @@ class Solution:
                 i += 2
             elif command[i] == '(' and command[i+1:i+4] == 'al':
                 BE += 'al'
-                i += 4
-        return BE
+        return B
